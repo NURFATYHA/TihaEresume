@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<title>My Resume</title>
+
+<body>
+
+<table width="80%" border="3px" align="center">
+
+<body background="Eresume_image/image.jpg">
+
+<!--********HEADER SECTION START********-->
+<tr>
+
+<td colspan="2" align="center">
+
+  <img src="img/BACKGROUND.jpeg"/ width="100%" height="190%">
+
+</td>
+
+</tr>
+<!--********HEADER SECTION END********-->
+
+<!--********MENU SECTION START********-->
+<tr bgcolor="#C70039">
+
+<td colspan="2" align="center">
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<table style="width:100%">
+  <tr>
+    <th><a href="file:///Users/user/Documents/ARTICLE%20457/WEBSITE/website%202/Index.html">HOME</a></th>
+    <th><a href="file:///Users/user/Documents/ARTICLE%20457/WEBSITE/website%202/My%20Profile.html">MY PROFILE</a></th>
+    <th><a href="file:///Users/user/Documents/ARTICLE%20457/WEBSITE/website%202/Education%20Background.html">EDUCATION BACKGROUND</a></th>
+    <th><a href="file:///Users/user/Documents/ARTICLE%20457/WEBSITE/website%202/Personal%20Skill.html">PERSONAL SKILLS</a></th>
+    <th><a href="file:///Users/user/Documents/ARTICLE%20457/WEBSITE/website%202/Work%20Experience.html">WORK EXPERIENCE</a></th>
+  </tr>
+</table>
+
+</td>
+</tr>
+<!--********MENU SECTION END********-->
+
+<!--********DETAILS SECTION START********-->
+<tr bgcolor="#C70039">
+
+<!--********CONTENT SECTION START********-->
+<td align="center" width="80%">
+
+<h1 style="font-family:nexa; color:Black;">Personal Skill</h1>
+
+<p style="font-family:arial;">-Identifies problems & develop solutions</p>
+<p style="font-family:arial;">-Gathers information & assess current situations</p>
+<p style="font-family:arial;">-Executes multiple tasks at once</p>
+<p style="font-family:arial;">-Negotiates situations effectively</p>
+<p style="font-family:arial;">-Ready to learn new things</p>
+
+<hr>
+
+<h1 style="font-family:nexa; color:Black;">Ability</h1> 
+
+<table width="80%">
+  <tr>
+    <td><center><img src="https://i.pinimg.com/originals/9c/ea/ba/9ceaba69b7a9f89158ff953107978f3e.png" width="55px"><center></td>
+    <td>-I'm a great editing in adobe photoshop, i have been use it recently to edit the picture, poster, or any design that i want to edit, and i will successfully edit the photo.</td>
+  </tr>
+  <tr>
+    <td><center><img src="https://i.pinimg.com/564x/e2/6a/fa/e26afafc5662c760c779692503f0014a.jpg" width="55px"><center></td>
+    <td>-I'm good at video editing with the help of Inshot and Capcut application.</td>
+  </tr>
+  <tr>
+    <td><center><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Microsoft_Word_logo_%282013-2019%29.png" width="55px"><center></td>
+    <td>-I'm good with using Microsoft Word for creating reports and documents.</td>
+  </tr>
+  <tr>
+    <td><center><img src="https://assets.stickpng.com/images/5842a622a6515b1e0ad75af9.png" width="55px"><center></td>
+    <td>-I'm also prificient in creating a slide presentations with Microsoft Powerpoint and Canva application.</td>
+    
+  </tr>
+  
+</table>
+<br />
+<br />
+<hr>
+
+<h1 style="font-family:nexa; color:Black;">Spoken Language</h1>
+
+<p style="font-family:arial;"><strong>English :</strong>FLUENT</p>
+<p style="font-family:arial;"><strong>Malay :</strong>FLUENT</p>
+<p style="font-family:arial;"><strong>Arabic :</strong>GOOD</p>
+
+</td>
+<!--********CONTENT SECTION END********-->
+
+<!--********SIDEBAR SECTION START********-->
+<td valign="top" align="center">
+
+<h1 style="font-family:nexa; color:black;"><small><small>Follow me on:</small></small></h1>
+<br />
+<br />
+<a href="https://t.me/amarfaidz"><img src="https://assets.stickpng.com/images/5842a8fba6515b1e0ad75b03.png
+  " width="55px" title="Telegram"/></a>
+<br />
+<br />
+<a href="https://msng.link/o/?afbmy=ig"><img src="https://d33wubrfki0l68.cloudfront.net/b78eb8bc40de56fa2b4f35fab42cb4de2c7d07e1/11d3c/image/instagram.png" width="55px" title="Instagram"/></a>
+<br />
+<br />
+<a href="https://wa.link/r1wk52"><img src="https://d33wubrfki0l68.cloudfront.net/12d82fc150ed4fb0fcaf4d6de9e7cc4754799136/0bc7a/image/whatsapp.png" width="55px" title="WhatsApp"/></a>
+
+
+
+</td>
+<!--********SIDEBAR SECTION END********-->
+
+</tr>
+<!--********DETAILS SECTION END********-->
+
+<!--********FOOTER SECTION START********-->
+<tr bgcolor="#C70039">
+
+<td colspan="2" align="center">
+
+  <p>©2022 Nurfatihah binti Muhamad Hafez.</p>
+  <p>Recommended Browser Google Chrome Resolution 1366x768.</p>
+  <p>Last Updated 16 Jun 2022.</p>
+  <p>All Rights Reserved.</p>
+
+</td>
+
+</tr>
+<!--********FOOTER SECTION END********-->
+
+
+</table>
+
+</body>
+</html>

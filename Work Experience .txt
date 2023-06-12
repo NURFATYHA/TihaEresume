@@ -1,0 +1,114 @@
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<title>Work Experience</title>
+
+<body>
+
+<table width="80%" border="3px" align="center">
+
+<body background="Eresume_image/image.jpg">
+
+<!--********HEADER SECTION START********-->
+<tr>
+
+<td colspan="2" align="center">
+
+  <img src="img/BACKGROUND.jpeg"/ width="100%" height="190%">
+
+</td>
+
+</tr>
+<!--********HEADER SECTION END********-->
+
+<!--********MENU SECTION START********-->
+<tr bgcolor="#ffffe6">
+
+<td colspan="2" align="center">
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<table style="width:100%">
+  <tr>
+    <th><a href="file:///Users/user/Documents/ARTICLE%20457/WEBSITE/website%202/Index.html">HOME</a></th>
+    <th><a href="file:///Users/user/Documents/ARTICLE%20457/WEBSITE/website%202/My%20Profile.html">MY PROFILE</a></th>
+    <th><a href="file:///Users/user/Documents/ARTICLE%20457/WEBSITE/website%202/Education%20Background.html">EDUCATION BACKGROUND</a></th>
+    <th><a href="file:///Users/user/Documents/ARTICLE%20457/WEBSITE/website%202/Personal%20Skill.html">PERSONAL SKILLS</a></th>
+    <th><a href="file:///Users/user/Documents/ARTICLE%20457/WEBSITE/website%202/Work%20Experience.html">WORK EXPERIENCE</a></th>
+  </tr>
+</table>
+
+</td>
+
+</tr>
+<!--********MENU SECTION END********-->
+
+<!--********DETAILS SECTION START********-->
+<tr bgcolor="#ffffe6">
+
+<!--********CONTENT SECTION START********-->
+<td align="center" width="80%">
+
+<h1 style="font-family:nexa; color:Black;">Work Experience</h1>
+
+<hr noshade width="100%"/>
+
+
+<h2>AEON RETAIL</h2>
+<img src="https://insideretail.asia/wp-content/uploads/2020/09/Aeon-Malaysia-store.jpg" width="65%" height="50%">
+<br>
+<p>I work at AEON Retail as a Cashier after I graduated from STPM for two years from 2019 until 2021</p>
+<br />
+<br />
+</td>
+<!--********CONTENT SECTION END********-->
+
+<!--********SIDEBAR SECTION START********-->
+<td valign="top" align="center">
+
+<h1 style="font-family:nexa; color:black;"><small><small>Follow me on:</small></small></h1>
+<br />
+<br />
+<a href="https://t.me/amarfaidz"><img src="https://assets.stickpng.com/images/5842a8fba6515b1e0ad75b03.png
+  " width="55px" title="Telegram"/></a>
+<br />
+<br />
+<a href="https://msng.link/o/?afbmy=ig"><img src="https://d33wubrfki0l68.cloudfront.net/b78eb8bc40de56fa2b4f35fab42cb4de2c7d07e1/11d3c/image/instagram.png" width="55px" title="Instagram"/></a>
+<br />
+<br />
+<a href="https://wa.link/r1wk52"><img src="https://d33wubrfki0l68.cloudfront.net/12d82fc150ed4fb0fcaf4d6de9e7cc4754799136/0bc7a/image/whatsapp.png" width="55px" title="WhatsApp"/></a>
+
+
+
+</td>
+<!--********SIDEBAR SECTION END********-->
+
+</tr>
+<!--********DETAILS SECTION END********-->
+
+<!--********FOOTER SECTION START********-->
+<tr bgcolor="#ffffe6">
+
+<td colspan="2" align="center">
+
+  <p>copyright &copy;2023. All Rights Reserved.</p>
+  <p>Designed by <span>Nurfatihah Hafed</span>
+  <p>Best view: Chrome 101.0 & 1920x1080 <br />
+  <p>Last updates: June 6, 2023
+  </td>
+
+</tr>
+<!--********FOOTER SECTION END********-->
+
+
+</table>
+
+</body>
+</html>

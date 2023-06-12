@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<title>My Resume</title>
+
+<body>
+
+<table width="80%" border="3px" align="center">
+
+<body background="Eresume_image/image.jpg">
+
+<!--********HEADER SECTION START********-->
+<tr>
+
+<td colspan="2" align="center">
+
+  <img src="img/BACKGROUND.jpeg"/ width="100%" height="190%">
+
+</td>
+
+</tr>
+<!--********HEADER SECTION END********-->
+
+<!--********MENU SECTION START********-->
+<tr bgcolor="#C70039">
+
+<td colspan="2" align="center">
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<table style="width:100%">
+  <tr>
+    <th><a href="index.html">HOME</a></th>
+    <th><a href="My Profile.html">MY PROFILE</a></th>
+    <th><a href="Education Background.html">EDUCATION BACKGROUND</a></th>
+    <th><a href="Personal Skill.html">PERSONAL SKILLS</a></th>
+    <th><a href="Work Experience.html">WORK EXPERIENCE</a></th>
+  </tr>
+</table>
+
+</td>
+
+</tr>
+<!--********MENU SECTION END********-->
+
+<!--********DETAILS SECTION START********-->
+<tr bgcolor="#ffffe6">
+
+<!--********CONTENT SECTION START********-->
+<td align="center" width="80%">
+
+<h1 style="font-family:nexa; color:Black;">Education Background</h1>
+
+<hr noshade width="100%"/>
+
+<h2>SIJIL TINGGI PERSEKOLAHAN MALAYSIA</h2>
+<img src="https://kt6dm.files.wordpress.com/2018/01/ktedm11.jpg?w=820" width="45%" height="265">
+<br>
+<a href="https://instagram.com/kte_desamahkota?igshid=YmMyMTA2M2Y=">Kolej Tingkatan Enam Desa Mahkota</a>
+<br />
+<br />
+<hr>
+<h2>SECONDARY SCHOOL</h2>
+<img src="https://malurian.weebly.com/uploads/2/3/2/9/23293064/header_images/1378231325.jpg" width="75%" height="45%">
+<br>
+<a href="https://www.facebook.com/smktbm0194/?_rdr">Sekolah Menengah Kebangsaan Taman Bukit Maluri</a>
+<br />
+<br />
+<hr>
+<h2>PRIMARY SCHOOL</h2>
+<img src="https://enviro2.doe.gov.my/emuseum/wp-content/uploads/2019/05/IMG_0600-1024x768.jpg" width="65%" height="50%">
+<br>
+<a href="https://www.facebook.com/sktamanbukitmaluri/">Sekolah Kebangsaan Taman Bukit Maluri</a>
+<br />
+<br />
+</td>
+<!--********CONTENT SECTION END********-->
+
+<!--********SIDEBAR SECTION START********-->
+<td valign="top" align="center">
+
+<h1 style="font-family:nexa; color:black;"><small><small>Follow me on:</small></small></h1>
+<br />
+<br />
+<a href="https://t.me/amarfaidz"><img src="https://1000logos.net/wp-content/uploads/2021/04/Telegram-logo.png" width="55px" title="Telegram"/></a>
+<br />
+<br />
+<a href="https://msng.link/o/?afbmy=ig"><img src="https://d33wubrfki0l68.cloudfront.net/b78eb8bc40de56fa2b4f35fab42cb4de2c7d07e1/11d3c/image/instagram.png" width="55px" title="Instagram"/></a>
+<br />
+<br />
+<a href="https://wa.link/r1wk52"><img src="https://d33wubrfki0l68.cloudfront.net/12d82fc150ed4fb0fcaf4d6de9e7cc4754799136/0bc7a/image/whatsapp.png" width="55px" title="WhatsApp"/></a>
+
+
+
+</td>
+<!--********SIDEBAR SECTION END********-->
+
+</tr>
+<!--********DETAILS SECTION END********-->
+
+<!--********FOOTER SECTION START********-->
+<tr bgcolor="#ffffe6">
+
+<td colspan="2" align="center">
+
+  <p>©2022 Amar Faidz Bin Md Yusof.</p>
+  <p>Recommended Browser Google Chrome Resolution 1366x768.</p>
+  <p>Last Updated 16 Jun 2022.</p>
+  <p>All Rights Reserved.</p>
+
+</td>
+
+</tr>
+<!--********FOOTER SECTION END********-->
+
+
+</table>
+
+</body>
+</html>
